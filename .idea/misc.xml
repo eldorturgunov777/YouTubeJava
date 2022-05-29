@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/drawable/border_round_filter.xml" value="0.175" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/drawable/border_round_first_filter.xml" value="0.161" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/drawable/change_circle.xml" value="0.2775" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/drawable/transparent.xml" value="0.281" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/layout/item_feed_filter.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/layout/item_feed_video.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/layout/item_first_feed_filter.xml" value="1.0" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/layout/item_shorts_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Turonbank/AndroidStudioProjects/YouTubeJava/app/src/main/res/layout/item_shorts_video.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
